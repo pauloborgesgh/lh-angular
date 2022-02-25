@@ -1,0 +1,25 @@
+body {
+    margin-top: 20px;
+}
+
+.lista-vagas {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.lista-vagas .card {
+    margin: 5px 10px;
+    min-height: 500px;
+}
+
+body {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.card.P {
+    color: black;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

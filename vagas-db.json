@@ -1,0 +1,46 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Desenvolver Front End Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com HTML/Css/JavaScript",
+      "salario": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolver BackEnd Pleno",
+      "foto": "foto2.png",
+      "descricao": "Trabalhar com Kotlin e Java",
+      "salario": 17000
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolver Criação de P.A",
+      "foto": "foto3.png",
+      "descricao": "Trabalhar com Python",
+      "salario": 12000
+    },
+    {
+      "id": 4,
+      "nome": "Desenvolver Fullstack",
+      "foto": "foto4.jpg",
+      "descricao": "Trabalhar com PHP",
+      "salario": 7000
+    },
+    {
+      "id": 5,
+      "nome": "Desenvolver Fullstack Senior",
+      "foto": "foto5.png",
+      "descricao": "Trabalhar com React",
+      "salario": 10000
+    },
+    {
+      "id": 6,
+      "nome": "Desenvolver Fullstack",
+      "foto": "foto6.jpg",
+      "descricao": "Trabalhar com Angular ",
+      "salario": 2500
+    }
+  ]
+}
